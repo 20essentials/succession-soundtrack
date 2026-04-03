@@ -1,0 +1,23 @@
+export const nameBand = 'SUCCESSION';
+export const nameSongs = [
+	"MAIN THEME", /*1*/
+	"ANDANTE IN C MINOR", /*2*/
+	"MINUET IN B MINOR", /*3*/
+	"BELL ATMOSPHERES", /*4*/
+	"END TITLE THEME", /*5*/
+	"ANDANTINO FOR BRASS", /*6*/
+	"A PIACERE", /*7*/
+	"BELL AND PIZZICATO FANTASIA", /*8*/
+	"POWER - INSTRUMENTAL", /*9*/
+	"MYSTERIUM", /*10*/
+	"ALLEGRO MODERATO", /*11*/
+	"ALLEGRETTO", /*12*/
+	"MILLION DOLLAR HOME RUN", /*13*/
+	"EXTENDED INTRO", /*14*/
+	"RONDO IN F MINOR FO", /*15*/
+	"MODERATO CON BRIO FOR VIOLIN", /*16*/
+	"MONEY WINS", /*17*/
+	"SHIV'S MOVE", /*18*/
+	"TERN HAVEN", /*19*/
+	"VAULTER", /*20*/
+]
